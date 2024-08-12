@@ -4,7 +4,7 @@ Welcome to my project! 🎉 This repository showcases a login page built with Py
 
 ## 🖼️ Project Screenshot
 
-![Login Page](path/to/your/loginpage-image.png)
+![Login Page](/images/img.png)
 
 ## 🚀 Features
 
@@ -51,12 +51,6 @@ For any inquiries or feedback, you can reach me at amulshar80@gmail.com
 
 
 
+### CODESNIPT
 
-### Instructions:
-
-1. **Replace `path/to/your/loginpage-image.png`** with the actual path to your login page image.
-2. **Replace `https://github.com/your-username/your-repository.git`** with the URL of your GitHub repository.
-3. **Replace `your_script_name.py`** with the name of your Python script.
-4. **Update `your-email@example.com`** with your actual email address.
-
-This `README.md` file provides a clear and engaging overview of your project, helping others understand and use your login page application.
+ `/images/PASSWORD.png`
