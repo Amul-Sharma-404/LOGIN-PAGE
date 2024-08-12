@@ -16,8 +16,8 @@ Welcome to my project! 🎉 This repository showcases a login page built with Py
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/Amul-Sharma-404/LOGIN-PAGE.git
+   cd LOGIN-PAGE
 
 
 
@@ -31,9 +31,7 @@ Set up MongoDB: Ensure you have MongoDB installed and running. Configure your co
 Run the application:
 
 bash
-Copy code
-python your_script_name.py
-Enter your credentials on the login page.
+py password.py
 
 ## 📖 How It Works
 The login page is built using Python's Tkinter library for the GUI.
