@@ -50,5 +50,4 @@ For any inquiries or feedback, you can reach me at amulshar80@gmail.com
 
 
 ### CODESNIPT
-
- `/images/PASSWORD.png`
+![Login Page](/images/PASSWORD.png)
